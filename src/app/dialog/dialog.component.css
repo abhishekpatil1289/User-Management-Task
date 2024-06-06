@@ -1,0 +1,54 @@
+mat-form-field {
+    width: 100%;
+}
+
+.mat-dialog-content {
+    padding: 24px;
+}
+
+@media (max-width: 600px) {
+    .mat-dialog-content {
+        padding: 16px;
+    }
+
+    .mat-form-field {
+        width: 100%;
+    }
+
+    .mat-dialog-actions {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .mat-dialog-actions button {
+        width: 100%;
+        margin-top: 8px;
+    }
+}
+
+/* For screens 600px or narrower (Mobile) */
+@media only screen and (max-width: 600px) {
+    .mat-dialog-content {
+        padding: 16px;
+        /* Add padding to the dialog content */
+    }
+
+    .mat-form-field {
+        width: 100%;
+        /* Set the width to 100% to occupy the full width */
+    }
+
+    .mat-dialog-actions {
+        flex-direction: column;
+        /* Arrange buttons in a column */
+        align-items: center;
+        /* Center-align buttons */
+    }
+
+    .mat-raised-button {
+        margin: 8px 0;
+        /* Add margin to separate buttons */
+        width: 100%;
+        /* Set button width to 100% */
+    }
+}

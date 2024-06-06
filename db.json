@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "Name": "Abhishek Patil",
+      "Email": "abhishekpatil26797@gmail.com",
+      "Role": "Admin",
+      "id": "5988"
+    },
+    {
+      "Name": "Gokul Patil1",
+      "Email": "avg@fmail.com",
+      "Role": "User",
+      "id": "18c9"
+    },
+    {
+      "Name": "Mangesh Patil2",
+      "Email": "avg@fmail.com",
+      "Role": "User",
+      "id": "18c9"
+    },
+    {
+      "Name": "Duggu Patil3",
+      "Email": "avbg1122@gmail.com",
+      "Role": "Admin",
+      "id": "4915"
+    },
+    {
+      "Name": "Darshan Patil4",
+      "Email": "avg@fmail.com",
+      "Role": "User",
+      "id": "18c9"
+    },
+    {
+      "Name": "Vickh Patil5",
+      "Email": "avbg1122@gmail.com",
+      "Role": "Admin",
+      "id": "4915"
+    },
+    {
+      "Name": "Roshan Patil",
+      "Email": "avg@fmail.com",
+      "Role": "User",
+      "id": "18c9"
+    },
+    {
+      "Name": "Rakesh patil",
+      "Email": "avbg1122@gmail.com",
+      "Role": "Admin",
+      "id": "4915"
+    },
+    {
+      "id": "c234",
+      "Name": "Kiran Patil",
+      "Email": "abhishekpatil887@gmail.com",
+      "Role": "User"
+    },
+    {
+      "id": "c234",
+      "Name": "Rahul Patil",
+      "Email": "abhishekpatil887@gmail.com",
+      "Role": "User"
+    },
+    {
+      "id": "c234",
+      "Name": "Rohit Patil",
+      "Email": "abhishekpatil887@gmail.com",
+      "Role": "User"
+    },
+    {
+      "id": "c234",
+      "Name": "Venkey Patil",
+      "Email": "abhishekpatil887@gmail.com",
+      "Role": "User"
+    },
+    {
+      "id": "c234",
+      "Name": "Mayur Patil",
+      "Email": "abhishekpatil887@gmail.com",
+      "Role": "User"
+    },
+    {
+      "id": "c234",
+      "Name": "Parehs Patil",
+      "Email": "abhishekpatil887@gmail.com",
+      "Role": "User"
+    },
+    {
+      "id": "c234",
+      "Name": "Tushar Patil",
+      "Email": "abhishekpatil887@gmail.com",
+      "Role": "User"
+    }
+  ]
+}

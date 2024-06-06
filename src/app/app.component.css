@@ -1,0 +1,47 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+table {
+    width: 100%;
+}
+
+.mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+
+/* td,
+th {
+    width: 25%;
+} */
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* For screens 600px or narrower (Mobile) */
+@media only screen and (max-width: 600px) {
+    .mat-toolbar {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center; /* Center content vertically */
+      height: auto; /* Set height to auto to accommodate content */
+      position: fixed;
+      width: 100%;
+      top: 0;
+      z-index: 1000;
+      margin:  auto;
+    }
+  
+    .example-icon {
+      margin-bottom: 8px; /* Add margin below the icon */
+    }
+  
+    .example-spacer {
+      flex-grow: 1;
+    }
+  }
+  
